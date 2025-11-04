@@ -1,10 +1,10 @@
-name: 21_myapp
+name: 22_myapp
 title:
 username: monicaisabelbr
 account: monicaisabelbr
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 15853102
-bundleId: 11131186
-url: https://monicaisabelbr.shinyapps.io/21_myapp/
+appId: 15965297
+bundleId: 11131220
+url: https://monicaisabelbr.shinyapps.io/22_myapp/
 version: 1

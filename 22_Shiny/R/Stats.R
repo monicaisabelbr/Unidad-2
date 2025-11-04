@@ -1,5 +1,4 @@
-generar_poblacion <- function(seed, n, p) {
-  set.seed(seed)
+generar_poblacion <- function(n, p) {
   rbinom(n, 1, p)
 }
 
